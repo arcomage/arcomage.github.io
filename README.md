@@ -1,4 +1,4 @@
-Please go to he real code repository which is:
+Please go to the real code repository which is:
 
 [ArcoMage HD GitHub repo (github.com/arcomage/arcomage-hd)](https://github.com/arcomage/arcomage-hd)
 
