@@ -1,1 +1,0 @@
-(self.webpackChunkarcomage_hd=self.webpackChunkarcomage_hd||[]).push([[85],{3847:(a,e,s)=>{"use strict";s.r(e),s.d(e,{availableLangs:()=>l});var c=s(6559),h=s(8199);const l=(0,c.XP)(h.langs)}}]);
