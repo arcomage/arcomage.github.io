@@ -1,0 +1,1 @@
+var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},e="object"===("undefined"==typeof window?"undefined":o(window))&&"object"===("undefined"==typeof document?"undefined":o(document))&&9===document.nodeType;export{e as i};

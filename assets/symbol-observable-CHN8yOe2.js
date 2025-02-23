@@ -1,0 +1,1 @@
+var e;e="undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof module?module:Function("return this")();var o,n,l=("function"==typeof(n=e.Symbol)?n.observable?o=n.observable:(o=n("observable"),n.observable=o):o="@@observable",o);export{l as r};

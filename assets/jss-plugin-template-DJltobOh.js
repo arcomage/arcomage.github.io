@@ -1,0 +1,1 @@
+var t=/;\n/,r=function(r){"string"==typeof r.style&&(r.style=function(r){for(var n={},s=r.split(t),e=0;e<s.length;e++){var i=(s[e]||"").trim();if(i){var f=i.indexOf(":");if(-1!==f){var o=i.substr(0,f).trim(),u=i.substr(f+1).trim();n[o]=u}}}return n}(r.style))};function n(){return{onProcessRule:r}}export{n as t};
