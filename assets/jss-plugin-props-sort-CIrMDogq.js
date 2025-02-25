@@ -1,1 +1,0 @@
-function t(){var t=function(t,e){return t.length===e.length?t>e?1:-1:t.length-e.length};return{onProcessStyle:function(e,n){if("style"!==n.type)return e;for(var r={},o=Object.keys(e).sort(t),l=0;l<o.length;l++)r[o[l]]=e[o[l]];return r}}}export{t as j};
