@@ -1,263 +1,3 @@
-Name: @reduxjs/toolkit
-Version: 2.6.0
-License: MIT
-Private: false
-Description: The official, opinionated, batteries-included toolset for efficient Redux development
-Repository: git+https://github.com/reduxjs/redux-toolkit.git
-Homepage: https://redux-toolkit.js.org
-Author: Mark Erikson <mark@isquaredsoftware.com>
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) 2018 Mark Erikson
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Name: immer
-Version: 10.1.1
-License: MIT
-Private: false
-Description: Create your next immutable state by mutating the current one
-Repository: https://github.com/immerjs/immer.git
-Homepage: https://github.com/immerjs/immer#readme
-Author: Michel Weststrate <info@michel.codes>
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) 2017 Michel Weststrate
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Name: invariant
-Version: 2.2.4
-License: MIT
-Private: false
-Description: invariant
-Repository: undefined
-Author: Andres Suarez <zertosh@gmail.com>
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) 2013-present, Facebook, Inc.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Name: peerjs
-Version: 1.5.4
-License: MIT
-Private: false
-Description: PeerJS client
-Repository: https://github.com/peers/peerjs
-Homepage: https://peerjs.com
-Contributors:
-  Michelle Bu <michelle@michellebu.com>
-  afrokick <devbyru@gmail.com>
-  ericz <really.ez@gmail.com>
-  Jairo <kidandcat@gmail.com>
-  Jonas Gloning <34194370+jonasgloning@users.noreply.github.com>
-  Jairo Caro-Accino Viciana <jairo@galax.be>
-  Carlos Caballero <carlos.caballero.gonzalez@gmail.com>
-  hc <hheennrryy@gmail.com>
-  Muhammad Asif <capripio@gmail.com>
-  PrashoonB <prashoonbhattacharjee@gmail.com>
-  Harsh Bardhan Mishra <47351025+HarshCasper@users.noreply.github.com>
-  akotynski <aleksanderkotbury@gmail.com>
-  lmb <i@lmb.io>
-  Jairooo <jairocaro@msn.com>
-  Moritz Stückler <moritz.stueckler@gmail.com>
-  Simon <crydotsnakegithub@gmail.com>
-  Denis Lukov <denismassters@gmail.com>
-  Philipp Hancke <fippo@andyet.net>
-  Hans Oksendahl <hansoksendahl@gmail.com>
-  Jess <jessachandler@gmail.com>
-  khankuan <khankuan@gmail.com>
-  DUODVK <kurmanov.work@gmail.com>
-  XiZhao <kwang1imsa@gmail.com>
-  Matthias Lohr <matthias@lohr.me>
-  =frank tree <=frnktrb@googlemail.com>
-  Andre Eckardt <aeckardt@outlook.com>
-  Chris Cowan <agentme49@gmail.com>
-  Alex Chuev <alex@chuev.com>
-  alxnull <alxnull@e.mail.de>
-  Yemel Jardi <angel.jardi@gmail.com>
-  Ben Parnell <benjaminparnell.94@gmail.com>
-  Benny Lichtner <bennlich@gmail.com>
-  fresheneesz <bitetrudpublic@gmail.com>
-  bob.barstead@exaptive.com <bob.barstead@exaptive.com>
-  chandika <chandika@gmail.com>
-  emersion <contact@emersion.fr>
-  Christopher Van <cvan@users.noreply.github.com>
-  eddieherm <edhermoso@gmail.com>
-  Eduardo Pinho <enet4mikeenet@gmail.com>
-  Evandro Zanatta <ezanatta@tray.net.br>
-  Gardner Bickford <gardner@users.noreply.github.com>
-  Gian Luca <gianluca.cecchi@cynny.com>
-  PatrickJS <github@gdi2290.com>
-  jonnyf <github@jonathanfoss.co.uk>
-  Hizkia Felix <hizkifw@gmail.com>
-  Hristo Oskov <hristo.oskov@gmail.com>
-  Isaac Madwed <i.madwed@gmail.com>
-  Ilya Konanykhin <ilya.konanykhin@gmail.com>
-  jasonbarry <jasbarry@me.com>
-  Jonathan Burke <jonathan.burke.1311@googlemail.com>
-  Josh Hamit <josh.hamit@gmail.com>
-  Jordan Austin <jrax86@gmail.com>
-  Joel Wetzell <jwetzell@yahoo.com>
-  xizhao <kevin.wang@cloudera.com>
-  Alberto Torres <kungfoobar@gmail.com>
-  Jonathan Mayol <mayoljonathan@gmail.com>
-  Jefferson Felix <me@jsfelix.dev>
-  Rolf Erik Lekang <me@rolflekang.com>
-  Kevin Mai-Husan Chia <mhchia@users.noreply.github.com>
-  Pepijn de Vos <pepijndevos@gmail.com>
-  JooYoung <qkdlql@naver.com>
-  Tobias Speicher <rootcommander@gmail.com>
-  Steve Blaurock <sblaurock@gmail.com>
-  Kyrylo Shegeda <shegeda@ualberta.ca>
-  Diwank Singh Tomer <singh@diwank.name>
-  Sören Balko <Soeren.Balko@gmail.com>
-  Arpit Solanki <solankiarpit1997@gmail.com>
-  Yuki Ito <yuki@gnnk.net>
-  Artur Zayats <zag2art@gmail.com>
-License Copyright:
-===
-
-Copyright (c) 2015 Michelle Bu and Eric Zhang, http://peerjs.com
-
-(The MIT License)
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-Name: peerjs-js-binarypack
-Version: 2.1.0
-License: MIT
-Private: false
-Description: BinaryPack serialization
-Repository: https://github.com/peers/js-binarypack
-Homepage: https://github.com/peers/js-binarypack
-Author: Eric Zhang
-Contributors:
-  Eric Zhang <really.ez@gmail.com>
-  Jonas Gloning <34194370+jonasgloning@users.noreply.github.com>
-  afrokick <devbyru@gmail.com>
-  manvalls <manolo@chatiku.com>
-  Michelle Bu <michelle@michellebu.com>
-  Liu Cong <leehom2001@gmail.com>
-  Michelle Bu <michelle@stripe.com>
-  lmb <i@lmb.io>
-  orcaman <orhiltch@gmail.com>
-  Godfrey Chan <godfreykfc@gmail.com>
-  Jarrett Cruger <jcrugzz@gmail.com>
-  Rossi Lorenzo <snowycoder@gmail.com>
-  divec <david@troi.org>
-  renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-License Copyright:
-===
-
-Copyright (c) 2012 Eric Zhang, http://binaryjs.com
-
-(The MIT License)
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
 Name: react
 Version: 19.0.0
 License: MIT
@@ -326,6 +66,40 @@ SOFTWARE.
 
 ---
 
+Name: scheduler
+Version: 0.25.0
+License: MIT
+Private: false
+Description: Cooperative scheduler for the browser environment.
+Repository: https://github.com/facebook/react.git
+Homepage: https://react.dev/
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
 Name: react-fast-compare
 Version: 3.2.2
 License: MIT
@@ -341,6 +115,74 @@ MIT License
 
 Copyright (c) 2018 Formidable Labs
 Copyright (c) 2017 Evgeny Poberezkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Name: invariant
+Version: 2.2.4
+License: MIT
+Private: false
+Description: invariant
+Repository: undefined
+Author: Andres Suarez <zertosh@gmail.com>
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) 2013-present, Facebook, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Name: shallowequal
+Version: 1.1.0
+License: MIT
+Private: false
+Description: Like lodash isEqualWith but for shallow equal.
+Repository: undefined
+Author: Alberto Leal <mailforalberto@gmail.com> (github.com/dashed)
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) 2017 Alberto Leal <mailforalberto@gmail.com> (github.com/dashed)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -576,6 +418,39 @@ License Copyright:
 
 ---
 
+Name: use-sync-external-store
+Version: 1.4.0
+License: MIT
+Private: false
+Description: Backwards compatible shim for React's useSyncExternalStore. Works with any React that supports hooks.
+Repository: https://github.com/facebook/react.git
+License Copyright:
+===
+
+MIT License
+
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
 Name: react-redux
 Version: 9.2.0
 License: MIT
@@ -645,22 +520,20 @@ SOFTWARE.
 
 ---
 
-Name: redux-observable
-Version: 3.0.0-rc.2
+Name: immer
+Version: 10.1.1
 License: MIT
 Private: false
-Description: RxJS based middleware for Redux. Compose and cancel async actions and more.
-Repository: git+https://github.com/redux-observable/redux-observable.git
-Homepage: https://github.com/redux-observable/redux-observable#README.md
-Contributors:
-  Ben Lesh <ben@benlesh.com>
-  Jay Phelps <hello@jayphelps.com>
+Description: Create your next immutable state by mutating the current one
+Repository: https://github.com/immerjs/immer.git
+Homepage: https://github.com/immerjs/immer#readme
+Author: Michel Weststrate <info@michel.codes>
 License Copyright:
 ===
 
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2016-2018 Ben Lesh, Jay Phelps, and redux-observable contributors.
+Copyright (c) 2017 Michel Weststrate
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -717,18 +590,20 @@ SOFTWARE.
 
 ---
 
-Name: reselect
-Version: 5.1.1
+Name: @reduxjs/toolkit
+Version: 2.6.0
 License: MIT
 Private: false
-Description: Selectors for Redux.
-Repository: https://github.com/reduxjs/reselect.git
+Description: The official, opinionated, batteries-included toolset for efficient Redux development
+Repository: git+https://github.com/reduxjs/redux-toolkit.git
+Homepage: https://redux-toolkit.js.org
+Author: Mark Erikson <mark@isquaredsoftware.com>
 License Copyright:
 ===
 
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2015-2018 Reselect Contributors
+Copyright (c) 2018 Mark Erikson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -747,6 +622,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Name: tslib
+Version: 2.8.1
+License: 0BSD
+Private: false
+Description: Runtime library for TypeScript helper functions
+Repository: https://github.com/Microsoft/tslib.git
+Homepage: https://www.typescriptlang.org/
+Author: Microsoft Corp.
+License Copyright:
+===
+
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
 
 ---
 
@@ -972,19 +873,22 @@ License Copyright:
 
 ---
 
-Name: scheduler
-Version: 0.25.0
+Name: redux-observable
+Version: 3.0.0-rc.2
 License: MIT
 Private: false
-Description: Cooperative scheduler for the browser environment.
-Repository: https://github.com/facebook/react.git
-Homepage: https://react.dev/
+Description: RxJS based middleware for Redux. Compose and cancel async actions and more.
+Repository: git+https://github.com/redux-observable/redux-observable.git
+Homepage: https://github.com/redux-observable/redux-observable#README.md
+Contributors:
+  Ben Lesh <ben@benlesh.com>
+  Jay Phelps <hello@jayphelps.com>
 License Copyright:
 ===
 
-MIT License
+The MIT License (MIT)
 
-Copyright (c) Meta Platforms, Inc. and affiliates.
+Copyright (c) 2016-2018 Ben Lesh, Jay Phelps, and redux-observable contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1006,191 +910,54 @@ SOFTWARE.
 
 ---
 
-Name: sdp
-Version: 3.2.0
+Name: peerjs-js-binarypack
+Version: 2.1.0
 License: MIT
 Private: false
-Description: SDP parsing and serialization utilities
-Repository: git+https://github.com/fippo/sdp.git
-Author: Philipp Hancke
+Description: BinaryPack serialization
+Repository: https://github.com/peers/js-binarypack
+Homepage: https://github.com/peers/js-binarypack
+Author: Eric Zhang
+Contributors:
+  Eric Zhang <really.ez@gmail.com>
+  Jonas Gloning <34194370+jonasgloning@users.noreply.github.com>
+  afrokick <devbyru@gmail.com>
+  manvalls <manolo@chatiku.com>
+  Michelle Bu <michelle@michellebu.com>
+  Liu Cong <leehom2001@gmail.com>
+  Michelle Bu <michelle@stripe.com>
+  lmb <i@lmb.io>
+  orcaman <orhiltch@gmail.com>
+  Godfrey Chan <godfreykfc@gmail.com>
+  Jarrett Cruger <jcrugzz@gmail.com>
+  Rossi Lorenzo <snowycoder@gmail.com>
+  divec <david@troi.org>
+  renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
 License Copyright:
 ===
 
-Copyright (c) 2017 Philipp Hancke
+Copyright (c) 2012 Eric Zhang, http://binaryjs.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+(The MIT License)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
----
-
-Name: semver
-Version: 7.7.1
-License: ISC
-Private: false
-Description: The semantic version parser used by npm.
-Repository: git+https://github.com/npm/node-semver.git
-Author: GitHub Inc.
-License Copyright:
-===
-
-The ISC License
-
-Copyright (c) Isaac Z. Schlueter and Contributors
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
-IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
----
-
-Name: shallowequal
-Version: 1.1.0
-License: MIT
-Private: false
-Description: Like lodash isEqualWith but for shallow equal.
-Repository: undefined
-Author: Alberto Leal <mailforalberto@gmail.com> (github.com/dashed)
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) 2017 Alberto Leal <mailforalberto@gmail.com> (github.com/dashed)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Name: tslib
-Version: 2.8.1
-License: 0BSD
-Private: false
-Description: Runtime library for TypeScript helper functions
-Repository: https://github.com/Microsoft/tslib.git
-Homepage: https://www.typescriptlang.org/
-Author: Microsoft Corp.
-License Copyright:
-===
-
-Copyright (c) Microsoft Corporation.
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-
----
-
-Name: typesafe-actions
-Version: 5.1.0
-License: MIT
-Private: false
-Description: Typesafe Action Creators for Redux / Flux Architectures (in TypeScript)
-Repository: undefined
-Homepage: https://github.com/piotrwitek/typesafe-actions
-Author: Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io)
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) 2017 Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-Name: use-sync-external-store
-Version: 1.4.0
-License: MIT
-Private: false
-Description: Backwards compatible shim for React's useSyncExternalStore. Works with any React that supports hooks.
-Repository: https://github.com/facebook/react.git
-License Copyright:
-===
-
-MIT License
-
-Copyright (c) Meta Platforms, Inc. and affiliates.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -1233,3 +1000,168 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+Name: sdp
+Version: 3.2.0
+License: MIT
+Private: false
+Description: SDP parsing and serialization utilities
+Repository: git+https://github.com/fippo/sdp.git
+Author: Philipp Hancke
+License Copyright:
+===
+
+Copyright (c) 2017 Philipp Hancke
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Name: peerjs
+Version: 1.5.4
+License: MIT
+Private: false
+Description: PeerJS client
+Repository: https://github.com/peers/peerjs
+Homepage: https://peerjs.com
+Contributors:
+  Michelle Bu <michelle@michellebu.com>
+  afrokick <devbyru@gmail.com>
+  ericz <really.ez@gmail.com>
+  Jairo <kidandcat@gmail.com>
+  Jonas Gloning <34194370+jonasgloning@users.noreply.github.com>
+  Jairo Caro-Accino Viciana <jairo@galax.be>
+  Carlos Caballero <carlos.caballero.gonzalez@gmail.com>
+  hc <hheennrryy@gmail.com>
+  Muhammad Asif <capripio@gmail.com>
+  PrashoonB <prashoonbhattacharjee@gmail.com>
+  Harsh Bardhan Mishra <47351025+HarshCasper@users.noreply.github.com>
+  akotynski <aleksanderkotbury@gmail.com>
+  lmb <i@lmb.io>
+  Jairooo <jairocaro@msn.com>
+  Moritz Stückler <moritz.stueckler@gmail.com>
+  Simon <crydotsnakegithub@gmail.com>
+  Denis Lukov <denismassters@gmail.com>
+  Philipp Hancke <fippo@andyet.net>
+  Hans Oksendahl <hansoksendahl@gmail.com>
+  Jess <jessachandler@gmail.com>
+  khankuan <khankuan@gmail.com>
+  DUODVK <kurmanov.work@gmail.com>
+  XiZhao <kwang1imsa@gmail.com>
+  Matthias Lohr <matthias@lohr.me>
+  =frank tree <=frnktrb@googlemail.com>
+  Andre Eckardt <aeckardt@outlook.com>
+  Chris Cowan <agentme49@gmail.com>
+  Alex Chuev <alex@chuev.com>
+  alxnull <alxnull@e.mail.de>
+  Yemel Jardi <angel.jardi@gmail.com>
+  Ben Parnell <benjaminparnell.94@gmail.com>
+  Benny Lichtner <bennlich@gmail.com>
+  fresheneesz <bitetrudpublic@gmail.com>
+  bob.barstead@exaptive.com <bob.barstead@exaptive.com>
+  chandika <chandika@gmail.com>
+  emersion <contact@emersion.fr>
+  Christopher Van <cvan@users.noreply.github.com>
+  eddieherm <edhermoso@gmail.com>
+  Eduardo Pinho <enet4mikeenet@gmail.com>
+  Evandro Zanatta <ezanatta@tray.net.br>
+  Gardner Bickford <gardner@users.noreply.github.com>
+  Gian Luca <gianluca.cecchi@cynny.com>
+  PatrickJS <github@gdi2290.com>
+  jonnyf <github@jonathanfoss.co.uk>
+  Hizkia Felix <hizkifw@gmail.com>
+  Hristo Oskov <hristo.oskov@gmail.com>
+  Isaac Madwed <i.madwed@gmail.com>
+  Ilya Konanykhin <ilya.konanykhin@gmail.com>
+  jasonbarry <jasbarry@me.com>
+  Jonathan Burke <jonathan.burke.1311@googlemail.com>
+  Josh Hamit <josh.hamit@gmail.com>
+  Jordan Austin <jrax86@gmail.com>
+  Joel Wetzell <jwetzell@yahoo.com>
+  xizhao <kevin.wang@cloudera.com>
+  Alberto Torres <kungfoobar@gmail.com>
+  Jonathan Mayol <mayoljonathan@gmail.com>
+  Jefferson Felix <me@jsfelix.dev>
+  Rolf Erik Lekang <me@rolflekang.com>
+  Kevin Mai-Husan Chia <mhchia@users.noreply.github.com>
+  Pepijn de Vos <pepijndevos@gmail.com>
+  JooYoung <qkdlql@naver.com>
+  Tobias Speicher <rootcommander@gmail.com>
+  Steve Blaurock <sblaurock@gmail.com>
+  Kyrylo Shegeda <shegeda@ualberta.ca>
+  Diwank Singh Tomer <singh@diwank.name>
+  Sören Balko <Soeren.Balko@gmail.com>
+  Arpit Solanki <solankiarpit1997@gmail.com>
+  Yuki Ito <yuki@gnnk.net>
+  Artur Zayats <zag2art@gmail.com>
+License Copyright:
+===
+
+Copyright (c) 2015 Michelle Bu and Eric Zhang, http://peerjs.com
+
+(The MIT License)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Name: semver
+Version: 7.7.1
+License: ISC
+Private: false
+Description: The semantic version parser used by npm.
+Repository: git+https://github.com/npm/node-semver.git
+Author: GitHub Inc.
+License Copyright:
+===
+
+The ISC License
+
+Copyright (c) Isaac Z. Schlueter and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
