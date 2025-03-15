@@ -944,7 +944,7 @@ SOFTWARE.
 ---
 
 Name: clarr
-Version: 1.0.0
+Version: 1.0.1
 License: MIT
 Private: false
 Description: Fastest className construction library
@@ -977,9 +977,12 @@ SOFTWARE.
 ---
 
 Name: semver-ts
-Version: 1.0.1
+Version: 1.0.3
 License: ISC
 Private: false
+Description: Tree-shakable, lightweight, drop-in replacement of semver with correct type definition
+Repository: https://github.com/tomchen/semver-ts.git
+Homepage: https://semver.tomchen.org/
 Author: Tom Chen <tomchen.org@gmail.com>
 License Copyright:
 ===
