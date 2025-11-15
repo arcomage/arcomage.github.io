@@ -1,5 +1,5 @@
 Name: react
-Version: 19.0.0
+Version: 19.2.0
 License: MIT
 Private: false
 Description: React is a JavaScript library for building user interfaces.
@@ -33,7 +33,7 @@ SOFTWARE.
 ---
 
 Name: react-dom
-Version: 19.0.0
+Version: 19.2.0
 License: MIT
 Private: false
 Description: React package for working with the DOM.
@@ -67,7 +67,7 @@ SOFTWARE.
 ---
 
 Name: scheduler
-Version: 0.25.0
+Version: 0.27.0
 License: MIT
 Private: false
 Description: Cooperative scheduler for the browser environment.
@@ -419,7 +419,7 @@ License Copyright:
 ---
 
 Name: use-sync-external-store
-Version: 1.4.0
+Version: 1.6.0
 License: MIT
 Private: false
 Description: Backwards compatible shim for React's useSyncExternalStore. Works with any React that supports hooks.
@@ -521,7 +521,7 @@ SOFTWARE.
 ---
 
 Name: immer
-Version: 10.1.1
+Version: 10.2.0
 License: MIT
 Private: false
 Description: Create your next immutable state by mutating the current one
@@ -624,7 +624,7 @@ SOFTWARE.
 ---
 
 Name: @reduxjs/toolkit
-Version: 2.6.1
+Version: 2.10.1
 License: MIT
 Private: false
 Description: The official, opinionated, batteries-included toolset for efficient Redux development
@@ -1057,7 +1057,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 Name: webrtc-adapter
-Version: 9.0.1
+Version: 9.0.3
 License: BSD-3-Clause
 Private: false
 Description: A shim to insulate apps from WebRTC spec changes and browser prefix differences
@@ -1099,7 +1099,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 Name: sdp
-Version: 3.2.0
+Version: 3.2.1
 License: MIT
 Private: false
 Description: SDP parsing and serialization utilities
@@ -1131,7 +1131,7 @@ SOFTWARE.
 ---
 
 Name: peerjs
-Version: 1.5.4
+Version: 1.5.5
 License: MIT
 Private: false
 Description: PeerJS client
